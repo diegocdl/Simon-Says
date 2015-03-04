@@ -23,4 +23,4 @@ Para iniciar el juego se debe presionar el boton de start, al perder se reinicia
 
 
 
-[diagram]: diseño_protoboard\diseño_protoboard_bb.png "Diagram"
+[diagram]: https://github.com/diegocdl/Simon-Says/blob/master/dise%C3%B1o_protoboard/dise%C3%B1o_protoboard_bb.png "Diagram"
